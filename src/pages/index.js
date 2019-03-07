@@ -26,7 +26,7 @@ export default () => (
       </Hero>
       <Heading>Our culture, our values</Heading>
       <Paragraph>
-        This document outlines the outlines and culture of the #FutureBarnardos
+        This document outlines the values and culture of the #FutureBarnardos
         engineering team.
       </Paragraph>
       <Paragraph>
