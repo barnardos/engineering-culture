@@ -3,10 +3,10 @@ import React from "react";
 import { Footer, Header, Layout, SkipLink, Site } from "@barnardos/components";
 
 const Page = ({ children }) => (
-  <Site description="<Your product description>">
+  <Site description="Barnardo’s Engineering Culture">
     <Layout>
       <SkipLink />
-      <Header title="Go to the <your product name> homepage" />
+      <Header title="Go to the Engineering Culture homepage" />
       {children}
       <Footer />
     </Layout>
