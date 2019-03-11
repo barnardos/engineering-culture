@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  Submit,
   BulletedList,
   ListItem,
   Main,
