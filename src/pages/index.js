@@ -29,7 +29,7 @@ export default () => (
         engineering team.
       </Paragraph>
       <Paragraph>
-        {`This is a living document. `}
+        This is a living document.{" "}
         <Link href={`https://github.com/barnardos/engineering-culture`}>
           Changes are encouraged
         </Link>
