@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@barnardos/components": "^0.4.1",
-    "react": "^16.8.3",
+    "react": "^16.8.5",
     "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0"
   }
