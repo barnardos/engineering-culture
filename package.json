@@ -18,7 +18,7 @@
   "author": "Barnardo's",
   "license": "MIT",
   "devDependencies": {
-    "@barnardos/eslint-config-barnardos": "^0.1.0",
+    "@barnardos/eslint-config-barnardos": "^0.2.0",
     "@barnardos/stylelint-config-barnardos": "^0.3.9",
     "eslint": "^5.16.0",
     "gatsby": "^2.1.18",
