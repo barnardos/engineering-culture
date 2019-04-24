@@ -33,7 +33,7 @@
     "stylelint": "^9.10.1"
   },
   "dependencies": {
-    "@barnardos/components": "^0.4.1",
+    "@barnardos/components": "^1.0.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-helmet": "^5.2.0"
