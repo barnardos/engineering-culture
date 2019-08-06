@@ -21,7 +21,7 @@
     "@barnardos/eslint-config-barnardos": "^0.2.0",
     "@barnardos/stylelint-config-barnardos": "^0.5.3",
     "eslint": "^5.16.0",
-    "gatsby": "^2.3.27",
+    "gatsby": "^2.13.51",
     "gatsby-plugin-compile-es6-packages": "^1.1.0",
     "gatsby-plugin-postcss": "^2.0.7",
     "npm-run-all": "^4.1.5",
